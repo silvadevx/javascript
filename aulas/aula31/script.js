@@ -7,4 +7,3 @@ function falaOi(){
 console.log(falaOi());
 
 //Não é possivel usar uma variavel fora do bloco '{bloco}' que ela foi declarada
-
